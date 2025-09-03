@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plant-Store/static/css/main.f2198053.css",
+    "main.js": "/Plant-Store/static/js/main.ee95eecd.js",
+    "index.html": "/Plant-Store/index.html",
+    "main.f2198053.css.map": "/Plant-Store/static/css/main.f2198053.css.map",
+    "main.ee95eecd.js.map": "/Plant-Store/static/js/main.ee95eecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2198053.css",
+    "static/js/main.ee95eecd.js"
+  ]
+}
